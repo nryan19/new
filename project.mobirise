@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "CommunityFitness.html",
+    "currentPage": "Adviceforkids.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -979,7 +979,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/c8fa848eebffaa8145662bc94a85d190-2000x1068.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -995,8 +995,21 @@
             "showButtons": false
           },
           "title": "Community Fitness",
-          "text": "C",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "text": "<b>There’s a great deal of event’s that communities can host by making use of parks and local sports fields or walking tracks. “Fun Runs” are a great way to get people of all ages in local communities active. They often have competitive and noncompetitive races to cater for a diverse range of runners and fitness levels. They also have multiple tracks, 2km, 4km, 6km and 8km. The 6km and 8km tracks are usually designed for competitive runners as the length proves to be a difficult factor. Another activity could be a community yoga session, provided free of charge by a volunteer instructor. Having a positive community attitude to physical welbeing can help get more and more people participating in community events to improve the overall health of the population.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f3c649"
+            },
+            ".mbr-section-lead": {
+              "color": "#f3c649",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-lead B": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_name": "footer1",
