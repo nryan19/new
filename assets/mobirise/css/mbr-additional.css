@@ -695,6 +695,8 @@ h6,
 }
 
 
+
+
 #menu-c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -768,9 +770,15 @@ h6,
   color: #f3c649;
 }
 #header1-v .mbr-section-lead {
-  color: #f3c649;
+  color: #000000;
   font-family: 'Oxygen', sans-serif;
 }
 #header1-v .mbr-section-lead B {
   color: #000000;
+}
+#msg-box5-w P {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box5-x P {
+  font-family: 'Oxygen', sans-serif;
 }
