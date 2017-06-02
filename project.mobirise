@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Adviceforparents.html",
+    "currentPage": "CommunityFitness.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 40,
+    "uniqCompNum": 42,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -530,6 +530,16 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "P": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          },
           "_anchor": "msg-box5-11",
           "_params": {
             "imageSize": 50,
@@ -576,7 +586,13 @@
           },
           "title": "Freeze",
           "text": "one person is chosen to be 'it' they then choose a song to play, when the song is playing each player moves around in any way they want. when the player who is 'it' pausees the music everyone has to freeze. the last player to freeze has to do 2 star jumps. You can make the game more fun by making the players lay on the floor instead of freezing.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
           "_styles": {
             "H3": {
               "font-family": "'Indie Flower', cursive",
@@ -586,13 +602,7 @@
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
             }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
+          },
           "_anchor": "msg-box5-13",
           "_params": {
             "imageSize": 50,
@@ -639,17 +649,7 @@
           },
           "title": "Role Play",
           "text": "This is a fun and exciting activity to play either by yourself or with other people. first think of what or who you want to be for example you could be a king or queen, you could be a cop or a fireman, it's entirely upi to you! Once you have your character start telling a story using your character. For example if you are king you may make one of your friends a knight or you could hold a feast for all your friends. and this game has no end! You can play for days if you want.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            },
-            "P": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "gallery1",
@@ -1097,6 +1097,45 @@
           "title": "Community Fitness",
           "text": "<b>There’s a great deal of events that communities can host by making use of parks and local sports fields or walking tracks. “Fun Runs” are a great way to get people of all ages in local communities active. They often have competitive and noncompetitive races to cater for a diverse range of runners and fitness levels. They also have multiple tracks, 2km, 4km, 6km and 8km. The 6km and 8km tracks are usually designed for competitive runners as the length proves to be a difficult factor. Another activity could be a community yoga session, provided free of charge by a volunteer instructor.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-15",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#3d8eb9",
+            "showMeta": true
+          },
+          "title": "The 10,000 Steps",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-14",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#3d8eb9"
+          },
+          "text": "<b>One of the biggest tools for success also happens to be one of the simplest ones – walking each and every day!</b><div><b>A really easy way for the community to improve on their overall health and fitness would be to aim for 10,000 steps per day!</b></div><div><b>Some of the benefits:</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>·         Lose Weight</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>·         Improve on Heart Health</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>·         Increase Self-Esteem</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>·         Tone Muscles</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>·         Increases Metabolism</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>·         Reduces Stress</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>·</b><b>&nbsp;Improves Mood</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>·         Increased Energy</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>·         Decrease Chance of Injury</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>·         Low Impact and Can Do Anywhere</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>·         Reduce Risk of High Blood Pressure</b></div><div><b>The 10,000 Steps is about introducing physical activity into your very busy and often hectic workday, especially living in a highly suburban area, and it is easy to do without having to set aside “special” time for exercise. You just make opportunity for yourself, some examples:</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>·         Take the stairs instead of the lift or escalator</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>·         Carry the shopping in one bag at a time</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>·</b><b>&nbsp;Take a short 5-minute walk at lunchtime</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>·         Take a walk in the park with a friend for 10 minutes</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>·</b><b>&nbsp;Some local parks and walking tracks have the starting points so you can track how far you’ve walking, even how many steps it takes to each checkpoints</b></div><div><br></div>",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          }
         },
         {
           "_tags": [

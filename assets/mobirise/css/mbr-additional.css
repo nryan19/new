@@ -702,6 +702,7 @@ h6,
 
 
 
+
 #menu-c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -780,6 +781,13 @@ h6,
 }
 #header1-v .mbr-section-lead B {
   color: #000000;
+}
+#header3-15 .mbr-section-title,
+#header3-15 .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-14 DIV {
+  font-family: 'Oxygen', sans-serif;
 }
 #msg-box5-w P {
   font-family: 'Oxygen', sans-serif;
