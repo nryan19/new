@@ -7,7 +7,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -504,17 +503,6 @@ h6,
 #header1-0 .mbr-section-lead {
   color: #000000;
 }
-#content5-e .mbr-section-title,
-#content5-e p {
-  color: #fff;
-}
-#content5-e DIV {
-  font-family: 'Oxygen', sans-serif;
-  color: #f3c649;
-}
-#content5-e B {
-  color: #ffffff;
-}
 #header3-5 .mbr-section-title,
 #header3-5 .mbr-section-subtitle {
   text-align: center;
@@ -522,6 +510,10 @@ h6,
 #header3-5 H3 {
   color: #000000;
 }
+
+
+
+
 
 
 
@@ -616,6 +608,18 @@ h6,
 #msg-box5-u P {
   font-family: 'Indie Flower', cursive;
 }
+#msg-box5-11 H3 {
+  font-family: 'Indie Flower', cursive;
+}
+#msg-box5-11 P {
+  font-family: 'Indie Flower', cursive;
+}
+#msg-box5-13 H3 {
+  font-family: 'Indie Flower', cursive;
+}
+#msg-box5-13 P {
+  font-family: 'Indie Flower', cursive;
+}
 
 
 #menu-7 .hide-buttons .nav-btn {
@@ -689,6 +693,7 @@ h6,
 }
 #features3-a H5 {
   color: #000000;
+  font-size: 15px;
 }
 #features3-a P {
   font-family: 'Oxygen', sans-serif;

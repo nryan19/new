@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "CommunityFitness.html",
+    "currentPage": "Adviceforparents.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,14 +22,14 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 34,
+    "uniqCompNum": 40,
     "versionPublish": "3.12.1"
   },
   "pages": {
     "Home.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Fitness4Kids</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Activities</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Indoor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Outdoor</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sports</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Other Languages</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -184,48 +184,8 @@
             "showButtons": true
           },
           "title": "Fitness4Kids",
-          "text": "It is recommended that every child should have at least 30 minutes of exercise a day.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Adviceforkids.html\" data-toolbar=\"-mbrBtnMove\">Advice for kids</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Adviceforparents.html\" data-toolbar=\"-mbrBtnMove\">Advice for parents</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"CommunityFitness.html\" data-toolbar=\"-mbrBtnMove\">Community fitness</a>  "
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            "DIV": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#f3c649"
-            },
-            "B": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-e",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
-          },
-          "title": "About",
-          "caption": "<b>This website aims to educate children, parents and teachers on why it is important to stay active and how to stay active in any situation</b>"
+          "text": "Staying active is possible anywhere you are, either indoors or outdoors there are many things to do to stay active, this website will discuss some activities and the importance of being physically active.",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Adviceforkids.html\" data-toolbar=\"-mbrBtnMove\">Advice for kids</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"Adviceforparents.html\" data-toolbar=\"-mbrBtnMove\">Advice for parents</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"CommunityFitness.html\" data-toolbar=\"-mbrBtnMove\">Community fitness</a>   "
         },
         {
           "_styles": {
@@ -261,13 +221,13 @@
             "paddingBottom": 1,
             "bgColor": "#f7da64"
           },
-          "text": "<font face=\"Oxygen, sans-serif\"><span style=\"font-size: 17.600000381469727px; line-height: 20.799999237060547px;\">Being physically fit enables a person to live life with less hindrance of health issues that stem from inactivity. By partaking in at least 30 minutes of physical exercise a day, you can reduce risk of; heart attack, type 2 diabetes, excessive weight gain, high blood cholesterol levels and you can improve your mental state by relieving stress and enhancing your concentration and mood. Exercising is also a great way to get outdoors and meet new people, it can help decrease the risk of depression due to social isolation and provide opportunities to participate in sports as an individual or part of a team.&nbsp;</span></font>"
+          "text": "<p><font face=\"Oxygen, sans-serif\"><span style=\"font-size: 17.600000381469727px; line-height: 20.799999237060547px;\">Being physically fit enables a person to live life with less hindrance of health issues that stem from inactivity. By partaking in at least 30 minutes of physical exercise a day, you can reduce risk of; heart attack, type 2 diabetes, excessive weight gain, high blood cholesterol levels and you can improve your mental state by relieving stress and enhancing your concentration and mood. Exercising is also a great way to get outdoors and meet new people, it can help decrease the risk of depression due to social isolation and provide opportunities to participate in sports as an individual or part of a team. Research conducted by the Australian Bureau of Statistics revealed that the average amount of physical activity that young children and adolescents partake in is far from the recommended daily amount of 60 minutes per day (Queensland Department of Health, 2014). The statistics are as follows:</span></font></p><p><br></p><div><font face=\"Oxygen, sans-serif\"><span style=\"font-size: 17.600000381469727px; line-height: 20.799999237060547px;\">Children aged between 2 and 4 years spent 6 hours per day participating in physical activity. They also spent an average of hour and a half each day on some form of technology according to the Australian Health Survey: Physical Activity 2011-2012 (ABS).</span></font></div><div><font face=\"Oxygen, sans-serif\"><span style=\"font-size: 17.600000381469727px; line-height: 20.799999237060547px;\"><br></span></font></div><div><font face=\"Oxygen, sans-serif\"><span style=\"font-size: 17.600000381469727px; line-height: 20.799999237060547px;\">Children aged 5-17 spent only one and a half hours participating in physical activity and more than two hours each day using technology.</span></font></div><div><font face=\"Oxygen, sans-serif\"><span style=\"font-size: 17.600000381469727px; line-height: 20.799999237060547px;\">Physical inactivity (low levels of physical activity) is the fourth leading cause of death due to non-communicable disease (NCDs) worldwide (heart disease, stroke, diabetes and cancers) – contributing to over three million preventable deaths annually (6% of deaths globally). (Queensland Department of Heatlh, 2014).</span></font></div><div><font face=\"Oxygen, sans-serif\"><span style=\"font-size: 17.600000381469727px; line-height: 20.799999237060547px;\"><br></span></font></div><div>&nbsp;<font face=\"Oxygen, sans-serif\"><span style=\"font-size: 17.600000381469727px; line-height: 20.799999237060547px;\">Physical inactivity is estimated to be the main cause for approximately 21–25% of breast and colon cancers, 27% of diabetes and approximately 30% of ischaemic heart disease cases. (Queensland Department of Health, 2014).</span></font></div><div><font face=\"Oxygen, sans-serif\"><span style=\"font-size: 17.600000381469727px; line-height: 20.799999237060547px;\">Physical inactivity is the second greatest contributor, behind tobacco smoking, to the cancer burden in Australia. (Queensland Department of Health, 2014).</span></font></div><div><font face=\"Oxygen, sans-serif\"><span style=\"font-size: 17.600000381469727px; line-height: 20.799999237060547px;\"><br></span></font></div><div><br></div><p></p>"
         }
       ]
     },
     "Adviceforkids.html": {
       "settings": {
-        "title": "Website Generator Title",
+        "title": "Advice for Kids",
         "meta_descr": "Website Generator Description"
       },
       "components": [
@@ -360,7 +320,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Fitness4Kids</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Activities</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Indoor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Outdoor</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sports</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Other Languages</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -566,6 +526,132 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-11",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/livingstatues-1400x932.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Freeze",
+          "text": "one person is chosen to be 'it' they then choose a song to play, when the song is playing each player moves around in any way they want. when the player who is 'it' pausees the music everyone has to freeze. the last player to freeze has to do 2 star jumps. You can make the game more fun by making the players lay on the floor instead of freezing.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "P": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-13",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/6b75bd9887b5285d1d64b807d0afe899-1400x1021.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Role Play",
+          "text": "This is a fun and exciting activity to play either by yourself or with other people. first think of what or who you want to be for example you could be a king or queen, you could be a cop or a fireman, it's entirely upi to you! Once you have your character start telling a story using your character. For example if you are king you may make one of your friends a knight or you could hold a feast for all your friends. and this game has no end! You can play for days if you want.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "P": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            }
+          }
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
@@ -632,7 +718,7 @@
     },
     "Adviceforparents.html": {
       "settings": {
-        "title": "Site Maker Title",
+        "title": "Advice for Parents",
         "meta_descr": "Site Maker Description"
       },
       "components": [
@@ -725,7 +811,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Fitness4Kids</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Activities</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Indoor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Outdoor</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sports</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Other Languages</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -751,7 +837,8 @@
           "_name": "features3",
           "_styles": {
             "H5": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "15px"
             },
             "P": {
               "font-family": "'Oxygen', sans-serif",
@@ -795,7 +882,7 @@
           },
           "title1": "Parks",
           "subtitle1": "",
-          "caption1": "<b>To find your nearest park go to Google and type \"parks\" the top result will be a map with the nearest parks.</b><br><b><br>Parks are places that communities in built-up areas can go to exercise. Most parks consist of some kind of playground that children can use, these have things like monkey bars and swings which all aid in children’s physical activity. Parks also typically consist open expanses of grass where children can play sports. Some parks even have soccer goals and football posts, children can go to the parks with friends and engage in sports to get their recommended amount of physical activity each day.&nbsp;</b><br>",
+          "caption1": "To find your nearest park go to Google and type <b>\"parks\"</b> the top result will be a map with the nearest parks.<br><br>Parks are places that communities in built-up areas can go to exercise. Most parks consist of some kind of playground that children can use, these have things like <b>monkey bars</b> and <b>swings </b>which all aid in children’s physical activity. Parks also typically consist <b>open expanses of grass</b> where children can play sports. Some parks even have<b> soccer goals</b> and <b>football posts</b>, children can go to the parks with friends and engage in sports to get their recommended amount of physical activity each day.&nbsp;<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ORE</a>",
           "media2": {
             "image": {
@@ -810,7 +897,7 @@
             }
           },
           "title2": "Sports",
-          "subtitle2": "<b>Sports are a critical factor in helping children reach the recommended amount of daily physical activity. Most schools offer some sort of extra curricular sporting opportunities for the students, however there are also options to enroll your child(s) in sporting clubs to partake in sports with the broader community. Even in big cities, sports are very popular activites and clubs make use of their fields for training and competition days. Inter-school and club sports are also an excellent way for your child to make friends and have a level of social interaction that they would otherwise not experience in their classroom or home environment. Team and individual sports help children become physically fit, which can have numerous health benefits such as; less risk of Type 2 diabetes, lowering blood cholesterol levels, improved cardio-respiratory system and longer life expectancy.</b>",
+          "subtitle2": "Sports are a critical factor in helping children reach the recommended amount of daily physical activity. Most schools offer some sort of <b>extra curricular sporting opportunities</b> for the students, however there are also options to enroll your child(s) in sporting clubs to partake in sports with the broader community. Even in big cities, sports are very popular activites and clubs make use of their fields for training and competition days. <b>Inter-school and club sports</b> are also an excellent way for your child to make friends and have a level of social interaction that they would otherwise not experience in their classroom or home environment. Team and individual sports help children become physically fit, which can have numerous health benefits such as; less risk of Type 2 diabetes, lowering blood cholesterol levels, improved cardio-respiratory system and longer life expectancy.",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -827,7 +914,7 @@
           },
           "title3": "Outdoor toys",
           "subtitle3": "",
-          "caption3": "<b>Having space to play is a major factor in a child’s physical development. Houses with backyards can be converted into an exciting environment where children can play and develop gross motor and locomotor skills with the help of things like; trampolines, swing-sets, monkey bars, hula-hoops balls, hoops and climbing frames. Children exert a tremendous amount of energy using these things and it can help them reach their physical activity goal when they are not participating in sports or other recreational activities.</b><br>",
+          "caption3": "Having space to play is a major factor in a child’s physical development. Houses with backyards can be converted into an exciting environment where children can play and develop gross motor and locomotor skills with the help of things like; <b>trampolines, swing-sets, monkey bars, hula-hoops balls, hoops and climbing frames.</b> Children exert a tremendous amount of energy using these things and it can help them reach their physical activity goal when they are not participating in sports or other recreational activities.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -843,7 +930,7 @@
           },
           "title4": "Indoor activities",
           "subtitle4": "",
-          "caption4": "<b>If none of the options above are available or it is a rainy day, there are many activities that can be done from the comfort of your own home. Martial arts, dancing and games like “Twister” or “The Floor is Lava” are great ways to get your children active inside, without worrying about the children breaking anything due to spacial limitations. There are also gaming consoles that provide active games such as the Nintendo Wii and the Xbox Kinect. The Nintendo Wii has a controller that is used through hand and arm movements. The Xbox Kinect is similar however, it uses the player’s own body as a controller. There are many games which can be purchased for these consoles such as sports games and “Just Dance”, a high-energy dancing game that requires the player to move their body to the beat of the song.&nbsp;</b>",
+          "caption4": "<b>I</b>f none of the options above are available or it is a rainy day, there are many activities that can be done from the comfort of your own home. Martial arts, dancing and games like:<br><b>“Twister”</b> or <br><b>“The Floor is Lava” </b><br>are great ways to get your children active inside, without worrying about the children breaking anything due to spacial limitations. There are also gaming consoles that provide active games such as the <br><b>Nintendo Wii</b> and the <br><b>Xbox Kinect</b>. <br>The Nintendo Wii has a controller that is used through hand and arm movements. The Xbox Kinect is similar however, it uses the player’s own body as a controller. There are many games which can be purchased for these consoles such as sports games and<b> “Just Dance”</b>, a high-energy dancing game that requires the player to move their body to the beat of the song.&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -874,7 +961,7 @@
     },
     "CommunityFitness.html": {
       "settings": {
-        "title": "Web Maker Title",
+        "title": "Community Fitness",
         "meta_descr": "Web Maker Description"
       },
       "components": [
@@ -967,7 +1054,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Fitness4Kids</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Activities</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Indoor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Outdoor</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sports</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Other Languages</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1016,6 +1103,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
           "_anchor": "msg-box5-w",
           "_params": {
             "imageSize": 50,
@@ -1062,19 +1155,19 @@
           },
           "title": "Fun Runs",
           "text": "Many towns hold their own fun run to raise money for either the community or a charity organization, the link below to find your next local fun run.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More Info</a>",
-          "_styles": {
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More Info</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
           "_anchor": "msg-box5-x",
           "_params": {
             "imageSize": 50,
@@ -1121,13 +1214,7 @@
           },
           "title": "Parks and walking tracks",
           "text": "Parks are in almost every town big or small and these parks have enough space for a run, walk or to play ball games, the link below will show you your nearest parks.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More Info</a>",
-          "_styles": {
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More Info</a>"
         },
         {
           "_name": "footer1",
